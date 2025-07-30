@@ -1,0 +1,23 @@
+font-family = JetBrainsMonoNL Nerd Font
+font-size = 14
+font-thicken = true
+
+cursor-color = #e8e8e8
+cursor-text = #000000
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
+mouse-hide-while-typing = true
+
+theme = GitHub-Dark-Default
+
+background-opacity = 0.9
+background-blur = true
+
+window-padding-balance
+window-padding-y = 0
+
+confirm-close-surface = false
+quit-after-last-window-closed = true
+
+macos-option-as-alt = left
